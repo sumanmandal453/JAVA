@@ -1,5 +1,3 @@
-package Loops;
-
 public class Demo6 {
     public static void main(String[] args){
         // jump Statements in java( break, continue)
@@ -16,7 +14,7 @@ public class Demo6 {
 
         //wheather the number is prime of not
         int i;
-       int p=9;
+       int p=4;
         for(i=2; i < p;i++){
             if(p % i ==0){
                 System.out.println("the number is not prime");
