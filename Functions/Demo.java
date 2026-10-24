@@ -5,6 +5,7 @@ public class Demo{
         sayHello("Suman");
        int x= getnumber();
        System.out.println(x);
+       System.out.println(getnumber());
        System.out.println(multiply(4,6));
        }
     // No input and no output
